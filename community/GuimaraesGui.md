@@ -1,6 +1,6 @@
 # Olá! Meu nome é Guilherme Guimarães 👋
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://pixabay.com/get/g49c679f817719c055b33cfb464b1ec50b4214123d881de12d3d29100fc93e377a97807fe05881d8bb98ca6e4f87f3df4_640.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://pixabay.com/get/gee8eb7b70111e6a9c4e3ab38407879565c0080639b05ba75fa441b9337b3b0a4a4f49bc5ba385427895d0799bdd60709_640.png)
 
 ## 🎓 Sobre mim
 
